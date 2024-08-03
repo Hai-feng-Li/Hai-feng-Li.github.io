@@ -12,7 +12,7 @@ title                    : "Haifeng Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haifeng Li"
 description              : &description "Everyone has their own destiny."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Hai-feng-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hai-feng-Li/Hai-feng_li.github.io"
 
